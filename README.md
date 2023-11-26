@@ -52,3 +52,4 @@
   - cstr
 - [mcpp](https://packages.debian.org/stable/devel/mcpp)
 - [mymake](https://packages.debian.org/stable/devel/mymake)
+- [pcc](https://packages.debian.org/stable/devel/pcc)
