@@ -14,3 +14,4 @@
 - [chibicc](https://packages.debian.org/stable/devel/chibicc)
 - [clang](https://packages.debian.org/stable/devel/clang)
 - [clang-format](https://packages.debian.org/stable/devel/clang-format)
+- [cloc](https://packages.debian.org/stable/devel/cloc)
