@@ -39,3 +39,4 @@
 - [frama-c-base](https://packages.debian.org/stable/devel/frama-c-base)
 - [fweb](https://packages.debian.org/stable/devel/fweb)
 - [gcc](https://packages.debian.org/stable/devel/gcc)
+- [highlight](https://packages.debian.org/stable/devel/highlight)
