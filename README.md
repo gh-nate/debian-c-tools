@@ -10,3 +10,4 @@
 - [ccls](https://packages.debian.org/stable/devel/ccls)
 - [cdecl](https://packages.debian.org/stable/devel/cdecl)
 - [cflow](https://packages.debian.org/stable/devel/cflow)
+- [check](https://packages.debian.org/stable/devel/check)
