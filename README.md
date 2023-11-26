@@ -5,3 +5,4 @@
 - [bcc](https://packages.debian.org/stable/devel/bcc)
 - [bcpp](https://packages.debian.org/stable/devel/bcpp)
 - [castxml](https://packages.debian.org/stable/devel/castxml)
+- [ccache](https://packages.debian.org/stable/devel/ccache)
