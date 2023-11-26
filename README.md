@@ -42,3 +42,4 @@
 - [highlight](https://packages.debian.org/stable/devel/highlight)
 - [icheck](https://packages.debian.org/stable/devel/icheck)
 - [indent](https://packages.debian.org/stable/devel/indent)
+- [iwyu](https://packages.debian.org/stable/devel/iwyu)
