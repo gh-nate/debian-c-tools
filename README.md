@@ -17,3 +17,4 @@
 - [cloc](https://packages.debian.org/stable/devel/cloc)
 - [coccinelle](https://packages.debian.org/stable/devel/coccinelle)
 - [code2html](https://www.palfrader.org/code/code2html)
+- [complexity](https://packages.debian.org/stable/devel/complexity)
