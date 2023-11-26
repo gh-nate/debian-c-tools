@@ -21,3 +21,4 @@
 - [cpp](https://packages.debian.org/stable/devel/cpp-x86-64-linux-gnu)
 - [cppcheck](https://packages.debian.org/stable/devel/cppcheck)
 - [cpputest](https://packages.debian.org/stable/devel/cpputest)
+- [cproto](https://packages.debian.org/stable/devel/cproto)
