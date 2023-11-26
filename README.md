@@ -22,3 +22,4 @@
 - [cppcheck](https://packages.debian.org/stable/devel/cppcheck)
 - [cpputest](https://packages.debian.org/stable/devel/cpputest)
 - [cproto](https://packages.debian.org/stable/devel/cproto)
+- [creduce](https://packages.debian.org/stable/devel/creduce)
