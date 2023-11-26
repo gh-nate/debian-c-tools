@@ -59,3 +59,4 @@
 - [splint](https://packages.debian.org/stable/devel/splint)
 - [tcc](https://packages.debian.org/stable/devel/tcc)
 - [uncrustify](https://packages.debian.org/stable/devel/uncrustify)
+- [unifdef](https://packages.debian.org/stable/devel/unifdef)
