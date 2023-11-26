@@ -24,3 +24,4 @@
 - [cproto](https://packages.debian.org/stable/devel/cproto)
 - [creduce](https://packages.debian.org/stable/devel/creduce)
 - [cscope](https://packages.debian.org/stable/devel/cscope)
+- [csmith](https://packages.debian.org/stable/devel/csmith)
