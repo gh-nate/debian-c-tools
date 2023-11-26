@@ -36,3 +36,4 @@
 - [deheader](https://packages.debian.org/stable/devel/deheader)
 - [distcc](https://packages.debian.org/stable/devel/distcc)
 - [doxygen](https://packages.debian.org/stable/devel/doxygen)
+- [frama-c-base](https://packages.debian.org/stable/devel/frama-c-base)
