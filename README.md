@@ -1,2 +1,3 @@
 - [abi-compliance-checker](https://packages.debian.org/stable/devel/abi-compliance-checker)
 - [analizo](https://packages.debian.org/stable/devel/analizo)
+- [api-sanity-checker](https://packages.debian.org/stable/devel/api-sanity-checker)
