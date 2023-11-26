@@ -43,3 +43,4 @@
 - [icheck](https://packages.debian.org/stable/devel/icheck)
 - [indent](https://packages.debian.org/stable/devel/indent)
 - [iwyu](https://packages.debian.org/stable/devel/iwyu)
+- [kwstyle](https://packages.debian.org/stable/devel/kwstyle)
