@@ -54,6 +54,7 @@
 - [mymake](https://packages.debian.org/stable/devel/mymake)
 - [pcc](https://packages.debian.org/stable/devel/pcc)
 - [pmccabe](https://packages.debian.org/stable/devel/pmccabe)
+- [pscan](https://packages.debian.org/stable/misc/pscan)
 - [sloccount](https://packages.debian.org/stable/devel/sloccount)
 - [source-highlight](https://packages.debian.org/stable/devel/source-highlight)
 - [splint](https://packages.debian.org/stable/devel/splint)
