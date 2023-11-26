@@ -15,3 +15,4 @@
 - [clang](https://packages.debian.org/stable/devel/clang)
 - [clang-format](https://packages.debian.org/stable/devel/clang-format)
 - [cloc](https://packages.debian.org/stable/devel/cloc)
+- [coccinelle](https://packages.debian.org/stable/devel/coccinelle)
