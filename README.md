@@ -41,6 +41,8 @@
 - [fweb](https://packages.debian.org/stable/devel/fweb)
 - [gcc](https://packages.debian.org/stable/devel/gcc)
 - [highlight](https://packages.debian.org/stable/devel/highlight)
+- [hxtools](https://packages.debian.org/stable/utils/hxtools)
+  - cctypeinfo
 - [icheck](https://packages.debian.org/stable/devel/icheck)
 - [indent](https://packages.debian.org/stable/devel/indent)
 - [iwyu](https://packages.debian.org/stable/devel/iwyu)
