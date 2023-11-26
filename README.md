@@ -44,3 +44,9 @@
 - [indent](https://packages.debian.org/stable/devel/indent)
 - [iwyu](https://packages.debian.org/stable/devel/iwyu)
 - [kwstyle](https://packages.debian.org/stable/devel/kwstyle)
+- [liwc](https://packages.debian.org/stable/devel/liwc)
+  - ccmtcnvt
+  - rmccmt
+  - entrigraph
+  - untrigraph
+  - cstr
