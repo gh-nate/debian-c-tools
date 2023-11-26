@@ -12,3 +12,4 @@
 - [cflow](https://packages.debian.org/stable/devel/cflow)
 - [check](https://packages.debian.org/stable/devel/check)
 - [chibicc](https://packages.debian.org/stable/devel/chibicc)
+- [clang](https://packages.debian.org/stable/devel/clang)
