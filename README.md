@@ -25,3 +25,9 @@
 - [creduce](https://packages.debian.org/stable/devel/creduce)
 - [cscope](https://packages.debian.org/stable/devel/cscope)
 - [csmith](https://packages.debian.org/stable/devel/csmith)
+- [cutils](https://packages.debian.org/stable/devel/cutils)
+  - cdecl
+  - cundecl
+  - cobfusc
+  - chilight
+  - cunloop
