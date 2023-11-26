@@ -13,3 +13,4 @@
 - [check](https://packages.debian.org/stable/devel/check)
 - [chibicc](https://packages.debian.org/stable/devel/chibicc)
 - [clang](https://packages.debian.org/stable/devel/clang)
+- [clang-format](https://packages.debian.org/stable/devel/clang-format)
