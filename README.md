@@ -35,3 +35,4 @@
 - [cxxtest](https://packages.debian.org/stable/devel/cxxtest)
 - [deheader](https://packages.debian.org/stable/devel/deheader)
 - [distcc](https://packages.debian.org/stable/devel/distcc)
+- [doxygen](https://packages.debian.org/stable/devel/doxygen)
