@@ -37,3 +37,4 @@
 - [distcc](https://packages.debian.org/stable/devel/distcc)
 - [doxygen](https://packages.debian.org/stable/devel/doxygen)
 - [frama-c-base](https://packages.debian.org/stable/devel/frama-c-base)
+- [fweb](https://packages.debian.org/stable/devel/fweb)
