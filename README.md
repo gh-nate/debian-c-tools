@@ -31,3 +31,4 @@
   - cobfusc
   - chilight
   - cunloop
+- [cxref](https://packages.debian.org/stable/devel/cxref)
