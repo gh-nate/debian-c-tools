@@ -34,3 +34,4 @@
 - [cxref](https://packages.debian.org/stable/devel/cxref)
 - [cxxtest](https://packages.debian.org/stable/devel/cxxtest)
 - [deheader](https://packages.debian.org/stable/devel/deheader)
+- [distcc](https://packages.debian.org/stable/devel/distcc)
