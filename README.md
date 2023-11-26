@@ -56,3 +56,4 @@
 - [pmccabe](https://packages.debian.org/stable/devel/pmccabe)
 - [sloccount](https://packages.debian.org/stable/devel/sloccount)
 - [source-highlight](https://packages.debian.org/stable/devel/source-highlight)
+- [splint](https://packages.debian.org/stable/devel/splint)
