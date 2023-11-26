@@ -4,6 +4,7 @@
 - [astyle](https://packages.debian.org/stable/devel/astyle)
 - [bcc](https://packages.debian.org/stable/devel/bcc)
 - [bcpp](https://packages.debian.org/stable/devel/bcpp)
+- [binfmtc](https://packages.debian.org/stable/utils/binfmtc)
 - [castxml](https://packages.debian.org/stable/devel/castxml)
 - [ccache](https://packages.debian.org/stable/devel/ccache)
 - [cccc](https://packages.debian.org/stable/devel/cccc)
