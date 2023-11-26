@@ -7,3 +7,4 @@
 - [castxml](https://packages.debian.org/stable/devel/castxml)
 - [ccache](https://packages.debian.org/stable/devel/ccache)
 - [cccc](https://packages.debian.org/stable/devel/cccc)
+- [ccls](https://packages.debian.org/stable/devel/ccls)
