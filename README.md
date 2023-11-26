@@ -57,3 +57,4 @@
 - [sloccount](https://packages.debian.org/stable/devel/sloccount)
 - [source-highlight](https://packages.debian.org/stable/devel/source-highlight)
 - [splint](https://packages.debian.org/stable/devel/splint)
+- [tcc](https://packages.debian.org/stable/devel/tcc)
